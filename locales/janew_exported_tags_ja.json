@@ -1,8 +1,0 @@
-{
-	"return Math": {
-		"floor( Math": {
-			"random() * ( max - min ) + min );": ""
-		}
-	},
-	"enemy_yasao": ""
-}
