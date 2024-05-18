@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":22,"dataId":0,"value":1},{"code":51,"dataId":1,"value":1},{"code":52,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"{MC_name}","nickname":"","note":"<FTKR_ACTOR_COMMAND: custom 1 true 1 1>\n<FTKR_ACTOR_COMMAND: custom 2 true 2 1>\n<FTKR_ACTOR_COMMAND: custom 3 true 3 1>\n<FTKR_ACTOR_COMMAND: custom 4 true 4 1>","profile":""}
+]
